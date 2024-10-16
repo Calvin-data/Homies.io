@@ -23,7 +23,7 @@
 }
 .img-container {
     overflow: hidden;
-    width: 5%;
+    width: 3%;
     height: 80%;
     transition: width 0.5s ease;
 }
